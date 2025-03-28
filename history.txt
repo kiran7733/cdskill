@@ -1,0 +1,224 @@
+    1  git clone https://github.com/mj7428/ExamSeatingArrangement.git
+    2  keygen 
+    3  git pull --rebase origin main
+    4  ssh-keygen
+    5  cd.cdd
+    6  mkdir .cdd
+    7  cd.cdd
+    8  cd..
+    9  mkdir .shh
+   10  cd .shh
+   11  ls
+   12  ssh-keygen
+   13  ls
+   14  touch demo.txt
+   15  vi demo.txt
+   16  git status
+   17  .git
+   18  git add.
+   19  ssh-keygen -t rsa
+   20  ls
+   21  cat cdd2.pub
+   22  ls
+   23  cd..
+   24  cd
+   25  mkdir kiran
+   26  cd kiran
+   27  git clone [200~git@github.com:kiran7733/cdd.git~
+   28  git clone [200~git@github.com:kiran7733/cdd.git~
+   29  git clone git@github.com:kiran7733/cdd.git
+   30  git clon git@github.com:kiran7733/cdd.git~
+   31  git clone git@github.com:kiran7733/cdd.git~
+   32  git init~
+   33  echo "# cdd2" >> README.md
+   34  git init
+   35  git add README.md
+   36  git commit -m "first commit"
+   37  git branch -M main
+   38  git remote add origin git@github.com:kiran7733/cdd2.git
+   39  git push -u origin main
+   40  ls
+   41  cd shh
+   42  cd .shh
+   43  cd 
+   44  cd cdd
+   45  cd .cdd
+   46  ls
+   47  cd .shh
+   48  cd
+   49  cd .shh
+   50  mkdir cd
+   51  cd cd
+   52  cd
+   53  mkdir cd
+   54  ls
+   55  cd cdd
+   56  cd .cd
+   57  mkdir cd
+   58  cd cd
+   59  touch cd.txt
+   60  ls
+   61  vi cd.txt
+   62  cat cd.txt
+   63  git init
+   64  ls
+   65  mkdir cdd
+   66  cd cdd
+   67  git clone [200~git checkout cdd~
+   68  mkdir repos 
+   69  cd repos
+   70  git clone https://kiranlingampally77@bitbucket.org/cdd_demo_1/demo_1.git
+   71  ls
+   72  cd demo_1
+   73  touch memo.txt
+   74  vi memo.txt
+   75  git status
+   76  git add memo.txt
+   77  git status
+   78  git commit -m "intial commit"
+   79  git push orgin main
+   80  git push origin main
+   81  cd 
+   82  mkdir raghu.txt
+   83  vi raghu.txt
+   84  notepad file1.java
+   85  git status
+   86  git init
+   87  git add .
+   88  git commit -m "Intial commit"
+   89  git remote add origin https://github.com/kiran7733/cdd2.git
+   90  git push -u origin main
+   91  git branch -M main
+   92  git push -u origin main
+   93  git push
+   94  git push
+   95  git commit "updated "
+   96  git commit -m "new commit"
+   97  git add .
+   98  git commit -m "new commit"
+   99  git push 
+  100  ssh -keygen -t rsa -b 4096 -C "2200080067@kluniversity.in"
+  101  ssh -keygen -t rsa -b 4096 -C "kiranlingampally77@gmail.com"
+  102  ssh-keygen -t rsa -b 4096 -C "kiranlingampally77@gmail.com"
+  103  eval "$(ssh-agent -s)"
+  104  ssh-add ~/.ssh/id_rsa
+  105  cat ~/.ssh/id_rsa.pub
+  106  cd T:\32\cdd
+  107  git init
+  108  git add adition.py
+  109  git add addition.py
+  110  git add [200~addition.py~
+  111  git add addition.py
+  112  git init
+  113  git add addition.py
+  114  git add addition
+  115  git add addition
+  116  git add addition.py
+  117  git commit -m "Added Addition.py"
+  118  git remote add origin https://github.com/kiran_l/PythonAzure.git
+  119  git push -u origin main
+  120  git remote add origin https://github.com/kiran7733/PythonAzure.git
+  121  git init
+  122  git add addition.py
+  123  git commit -m "Added Addition.py"
+  124  git add addition.py
+  125  git commit -m "Added Addition.py"
+  126  git commit -m "Added addition.py"
+  127  git add addition.py
+  128  git commit -m "Added Addition.py"
+  129  gid add addition.py
+  130  git init
+  131  git add addition.py
+  132  git add Addition.py
+  133  git remote add origin https://github.com/kiran7733/PythonAzure.git
+  134  git push -u origin main
+  135  git push -u origin master
+  136  git push -u origin main
+  137  git branch
+  138  git status
+  139  git push -u origin master
+  140  git branch -M master
+  141  git push -u origin master
+  142  git remote add origin https://github.com/kiran7733/PythonAzure.git
+  143  git push -u origin master
+  144  git branch -M main
+  145  git push -u origin main
+  146  git init
+  147  git add addition.py
+  148  git commit -m "Added Addition.py"
+  149  git remote add origin https://github.com/kiran7733/PythonAzure.git
+  150  git push -u origin main
+  151  git init
+  152  touch names.txt
+  153  git status
+  154  touch hello.txt
+  155  git status
+  156  rm -rf hello.txt
+  157  git status
+  158  rm -rf names.txt
+  159  git status
+  160  touch hello.txt
+  161  git stash
+  162  git add .
+  163  git commit -m"added "
+  164  git stash
+  165  git add hjk.txt
+  166  touch ghj.txt
+  167  git stash
+  168  git add .
+  169  git stash
+  170  git add hello.txt
+  171  git stash
+  172  git stash hello.txt
+  173  git log
+  174  git reset bdf0a4c2640c80671acd60eb8494fa00fcf80689
+  175  git status
+  176  ls
+  177  git add .
+  178  git stash
+  179  git reset --soft HEAD~1
+  180  clear
+  181  git log
+  182  cd 2200080067
+  183  git add .
+  184  git commit -m"Added Attendence"
+  185  git push origin main
+  186  git remote origin "https://github.com/kiran7733/bzgith"
+  187  git clone git@github.com:kiran7733/Version-Control-System.git
+  188  git clone https://github.com/kiran7733/Version-Control-System
+  189  git init
+  190  git remote
+  191  git branch 
+  192  git add .
+  193  git remote add git@github.com:kiran7733/Version-Control-System.git
+  194  git remote add origin git@github.com:kiran7733/Version-Control-System.git
+  195  git remote add upstream git@github.com:kiran7733/Version-Control-System.git
+  196  git remote
+  197  git init
+  198  git add .
+  199  git commit -m"attendence"
+  200  git push origin master
+  201  git push origin main
+  202  ls ~/.ssh
+  203  eval "$(ssh-agent -s)"
+  204  ssh-add ~/.ssh/id_rsa
+  205  ssh -T git@github.com
+  206  cat ~/.ssh/id_rsa.pub
+  207  ssh -T git@github.com
+  208  git push origin master
+  209  git push origin main
+  210  git branch -m master main
+  211  git push origin main
+  212  git remote
+  213  git add .
+  214  git commit -m"attendance"
+  215  git push origin main
+  216  vi cdskill.txt
+  217  git init
+  218  git add .
+  219  git remote add origin https://github.com/kiran7733/cdskill
+  220  git commit -m "cd skill exam"
+  221  git push origin main 
+  222  git push origin master
+  223  history
+  224  history > history.txt
